@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">An Applied Artificial Intelligence Undergraduate</h3>
 
-- 🔭 I’m currently working on [Kaggle Challenges](https://github.com/ashhssn/kaggle-notebooks)
+- 🔭 I’m currently working on LLM with RAG integration for detecting Disinformation, and Real Time Lightweight FER Application.
 
 - 🌱 I’m currently learning **LLMs, Cloud Computing and Edge Computing**
 
