@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">An Applied Artificial Intelligence Undergraduate</h3>
 
-- 🔭 I’m currently working on LLM with RAG integration for detecting Disinformation, and Real Time Lightweight FER Application.
+- 🔭 I’m currently working on AI Applications with multimodality, not multimodal AI... don't get it twisted.
 
-- 🌱 I’m currently learning **LLMs, Cloud Computing and Edge Computing**
+- 🌱 I like Chocolate Origin and AI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
