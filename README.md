@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ash</h1>
 <h3 align="center">An Applied Artificial Intelligence Undergraduate</h3>
 
-- 🔭 I’m currently working on AI Applications with multimodality, not multimodal AI... don't get it twisted.
+- 🔭 I’m currently working on AI Applications in the Computer Vision domain!
 
 - 🌱 I like Chocolate Origin and AI.
 
